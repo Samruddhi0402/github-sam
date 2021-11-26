@@ -23,5 +23,5 @@
 [GOOGLE]("www.google.com")
 
 # IMG in readme file
-![download](download.jpg)
+![aryan](aryan.jpg)
 
